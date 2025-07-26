@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Remove or comment out conflicting base styles. Use Tailwind classes in components instead. */
+
+/* Example minimal reset (optional): */
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: inherit;
+}
+
+/* You can add custom utility classes below if needed */
